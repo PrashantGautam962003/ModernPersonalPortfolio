@@ -18,7 +18,7 @@ export const AboutMe = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              Hi, I'm Ayush Dixit — a passionate developer and tech enthusiast who loves building 
+              Hi, I'm Prashant Gautam — a passionate developer and tech enthusiast who loves building 
               intuitive digital experiences. Whether it's crafting responsive front-ends or solving 
               complex problems with code, I thrive on turning ideas into reality.
             </p>
@@ -31,7 +31,7 @@ export const AboutMe = () => {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
-              <a href="mailto:dayush15092004@gmail.com" className="cosmic-button">
+              <a href="mailto:prashantgautam962003@gmail.com" className="cosmic-button">
                 {" "}
                 Get In Touch
               </a>
