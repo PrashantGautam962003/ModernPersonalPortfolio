@@ -8,7 +8,7 @@ const projects = [
     image: "/projects/20943849.jpg",
     tags: ["React.js", "TailwindCSS", "CSS" , "JavaScript"],
     demoUrl: "#",
-    githubUrl: "https://github.com/AyushD15/React-Admin-Dashboard-App",
+    githubUrl: "https://github.com/PrashantGautam962003/react-admin-dashboard",
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ const projects = [
     image: "/projects/images.jpg",
     tags: [" React.js", "TailwindCSS","HTML" , "JavaScript"],
     demoUrl: "#",
-    githubUrl: "https://github.com/AyushD15/Property-Rental-Website",
+    githubUrl: "https://github.com/PrashantGautam962003/Property-Rental-Website",
   },
 ];
 
@@ -90,7 +90,7 @@ export const ProjectsSection = () => {
           <a
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href="https://github.com/AyushD15"
+            href="https://github.com/PrashantGautam962003"
           >
             Check My Github <ArrowRight size={16} />
           </a>
